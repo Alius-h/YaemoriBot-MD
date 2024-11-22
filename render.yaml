@@ -1,8 +1,7 @@
 services:
   - type: web
-    name: my-service
+    name: my-node-app
     env: node
-    buildCommand: npm install
-    startCommand: npm start
-    region: frankfurt
-    plan: free
+    buildCommand: "npm install"
+    startCommand: "npm start"
+    region: oregon
