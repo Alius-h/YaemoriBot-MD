@@ -11,17 +11,17 @@ import moment from 'moment-timezone'
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +573218138672
+global.botNumberCode = '' //Ejemplo: +212760...
 global.confirmCode = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['5218713339906', 'Creador 👑', true],
-   ['573218138672', 'Owner 🍭', true],
-   ['573012482597'],
-   ['5351524614'],
-   ['5218711426787']
+   ['212760517793', 'Creador 👑', true],
+   ['212760517793', 'Owner 🍭', true],
+   ['212760517793'],
+   ['212760517793'],
+   ['212760517793']
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -37,19 +37,19 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.5'
 global.vs = '2.0.7'
 global.vsJB = '5.0'
-global.nameqr = 'Ai Yaemori - MD'
-global.namebot = 'ᥡᥲᥱm᥆rі ᑲ᥆𝗍 ᰔᩚ'
+global.nameqr = 'Ai ALIYA - MD'
+global.namebot = 'ᥲᥣіyᥲ ᑲ᥆𝗍 ᰔᩚ'
 global.sessions = 'MiniSession'
 global.jadi = 'MiniJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐀𝐢 𝐘𝐚𝐞𝐦𝐨𝐫𝐢 - 𝐌𝐃 ✰⪜'
-global.botname = 'Yaemori Bot - MD 🍟'
-global.wm = 'YaemoriBot-MD 🌸'
-global.author = 'Made By DevDiego 👑'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ძᥱ᥎ძіᥱg᥆ ✌︎'
-global.textbot = 'Ai Yaemori : DevDiego 🚩'
+global.packname = '⪛✰ 𝐀𝐢 ✰⪜'
+global.botname = 'ALIYA-BOT 🍟'
+global.wm = 'ALIYA-MD 🌸'
+global.author = 'Made By ALI_M 👑'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥲᥣі_m ✌︎'
+global.textbot = 'Ai ALIYA : ALI_MAOIE 🚩'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -82,11 +82,11 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.ch = {
-ch1: '120363310433406751@newsletter',
-ch2: '120363263466636910@newsletter',
-ch3: '120363160031023229@newsletter',
-ch4: '120363307382381547@newsletter',
-ch5: '120363301598733462@newsletter',
+ch1: '120363325281734612@newsletter',
+ch2: '120363325281734612@newsletter',
+ch3: '120363325281734612@newsletter',
+ch4: '120363325281734612@newsletter',
+ch5: '120363325281734612@newsletter',
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
