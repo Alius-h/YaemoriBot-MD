@@ -28,17 +28,17 @@ console.log(`Error : ${e}`)
 }}
 
 //creador y otros
-global.creador = 'Wa.me/5493876432076'
+global.creador = 'Wa.me/212760517793'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'https://wa.me/message/O4QPPHZOFDOJI1'
-global.namechannel = '© All Rightd Reserved • YaemoriBot'
+global.asistencia = ''
+global.namechannel = '© All Rightd Reserved • aliyaBot'
 global.listo = '✨️ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://qu.ax/QGAVS.jpg')
 
 //ids channel
-global.channelid = '120363310433406751@newsletter'
-global.canalIdYL = ["120363160031023229@newsletter", "120363310433406751@newsletter", "120363263466636910@newsletter", "120363307382381547@newsletter", "120363301598733462@newsletter"]
-global.canalNombreYL = ["INFINITY-WA 💫", "YaemoriBot - Test 🚩", "© All Rightd Reserved • YaemoriBot", "Megumin Bot - Channel 💥", "Sky Ultra Plus ☁️"]
+global.channelid = '120363325281734612@newsletter'
+global.canalIdYL = ["120363325281734612@newsletter", "120363325281734612@newsletter", "120363325281734612@newsletter", "120363325281734612@newsletter", "120363325281734612@newsletter"]
+global.canalNombreYL = ["INFINITY-WA 💫", "aliyaBot - Test 🚩", "© All Rightd Reserved • aliyaBot", "elaina Bot - Channel 🌟", "Sky Ultra Plus ☁️"]
 global.channelRD = await getRandomChannel()
 
 //fechas
@@ -64,19 +64,19 @@ global.wait = '🚀 Cargando...'
 global.emojis = [emoji, emoji2, emoji3, emoji4, emoji5].getRandom()
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'
-var canal2 = 'https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z'
-var canal3 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
-var canal4 = 'https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g'
-var git = 'https://github.com/Dev-Diego' 
-var youtube = 'https://www.youtube.com/@OfcDiego' 
-var github = 'https://github.com/Dev-Diego/YaemoriBot-MD'  
-var dash = 'https://dash.skyultraplus.com'
-var panel = 'https://panel.skyultraplus.com'
-var status = 'https://estado.skyultraplus.com'
-var discord = 'https://discord.gg/zvKgtc2RBc'
-let tiktok = 'https://tiktok.com/@dev_diego'
-let correo = 'theyaemoribot@gmail.com'
+var canal = ''
+var canal2 = ''
+var canal3 = ''
+var canal4 = ''
+var git = '' 
+var youtube = '' 
+var github = ''  
+var dash = ''
+var panel = ''
+var status = ''
+var discord = ''
+let tiktok = ''
+let correo = 'abdelalibloug@gmail.com'
 
 global.redes = [canal, canal2, canal3, canal4, git, youtube, github, dash, panel, status, discord, tiktok, correo].getRandom()
 
